@@ -1,0 +1,43 @@
+.experience {
+    background: #0067B1;
+    color: #FFFFFF;
+  }
+.h2-e {
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    margin: 0;
+    text-align: left;
+}
+
+.h3-e {
+    margin-bottom: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin: 0;
+    font-size: 1.17em;
+}
+
+.p-e {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.li-e {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    display: list-item;
+    list-style-type: disc;
+    box-sizing: border-box;
+}
+
+.job-item {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    column-gap: 20px;
+  }
+
+  .divider > section {
+    border-bottom: 1px dashed #343434;
+    padding: 25px 0;
+  }

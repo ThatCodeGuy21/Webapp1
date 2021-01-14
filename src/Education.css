@@ -1,0 +1,27 @@
+.education {
+    background-image: url("./Zoom-Backgrounds-1_0.jpg");
+    background-size: cover;
+    padding-bottom: 100px;
+    color: #FFFFFF
+  }
+  .education p {
+    width: 70%;
+  }
+
+.education-h2 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: 1.5cm;
+}
+
+.education-h3 {
+    font-size: 17.55px;
+}
+
+.item-details h3 ~ p {
+    margin: 0;
+  }
+  
+.item-details h3 + p {
+    font-style: italic;
+  }
