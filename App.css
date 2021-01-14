@@ -1,0 +1,35 @@
+.header-profile {
+  background: #00447C;
+  color: #FFFFFF;
+}
+h2 {
+  font-size: 45px;
+  text-align: center;
+  line-height: 1.5;
+}
+h1, h2 {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.p {
+  font-style: italic;
+  margin: 0;
+  text-align: center;
+  line-height: 1;
+}
+
+.content-wrap {
+  max-width: 800px;
+  width: 85%;
+  margin: 0 auto;
+  padding: 60px 0;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.h1-a {
+  box-sizing: border-box;
+  display: block;
+  font-size: 4rem;
+  font-weight: 400;
+  text-align: center;
+}
